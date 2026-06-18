@@ -1,0 +1,1138 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - link [ref=e11]:
+          - /url: /
+          - img [ref=e13]
+        - generic [ref=e27]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - textbox "Search for mobiles, accessories & More" [disabled]
+      - generic [ref=e29]:
+        - generic [ref=e30] [cursor=pointer]:
+          - img [ref=e31]
+          - generic [ref=e37]: Select City
+          - img [ref=e39]
+        - button "Login" [ref=e45] [cursor=pointer]:
+          - generic [ref=e46]: Login
+    - generic [ref=e49]:
+      - generic [ref=e52]:
+        - generic [ref=e56] [cursor=pointer]:
+          - generic [ref=e57]: All
+          - img [ref=e58]
+        - link "Sell Phone" [ref=e62]:
+          - /url: /sell-old-mobile-phone
+          - generic [ref=e63]:
+            - generic [ref=e64]: Sell Phone
+            - img [ref=e65]
+        - generic [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]: Sell Gadgets
+          - img [ref=e72]
+        - link "Buy Refurbished Devices" [ref=e76]:
+          - /url: /buy-refurbished-gadgets
+          - generic [ref=e77]:
+            - generic [ref=e78]: Buy Refurbished Devices
+            - img [ref=e79]
+        - generic [ref=e84] [cursor=pointer]:
+          - generic [ref=e85]: Find New Gadget
+          - img [ref=e86]
+        - link "Buy Laptop" [ref=e90]:
+          - /url: /buy-refurbished-laptops
+          - generic [ref=e91]:
+            - generic [ref=e92]: Buy Laptop
+            - img [ref=e93]
+        - link "Cashify Store" [ref=e97]:
+          - /url: /offline-stores
+          - generic [ref=e98]:
+            - generic [ref=e99]: Cashify Store
+            - img [ref=e100]
+        - generic [ref=e105] [cursor=pointer]:
+          - generic [ref=e106]: More
+          - img [ref=e107]
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e119] [cursor=pointer]:
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - heading "Sell old phone" [level=1] [ref=e122]
+                - generic [ref=e123]: From your doorstep or at any of our 200 stores pan-India
+              - generic [ref=e125]: Sell Now
+            - img "24 Apr 2025-31 Dec 2026-1-cashifyweb-RKR200StoreNewRKR-BuybackPage-buyback-NA" [ref=e127]
+          - img "10 June 2026-15 June 2026-2-cashifyweb-SummerSale-LP-estore-NA" [ref=e131]
+          - img "01 June 2026-30 June 2026-3-cashifyweb-BTCRepair-RepairHP-repair-NA" [ref=e135]
+          - img "07 Nov 2025-31 May 2026-5-cashifyweb-MarketplacePartner-JoinAsPartner-buyback-NA" [ref=e139]
+        - generic:
+          - img [ref=e141] [cursor=pointer]
+          - img [ref=e144] [cursor=pointer]
+    - generic [ref=e152]:
+      - generic [ref=e154]:
+        - heading "Our Services" [level=2] [ref=e155]
+        - generic [ref=e156]:
+          - link "Sell Phone Sell Phone" [ref=e158]:
+            - /url: /sell-old-mobile-phone
+            - generic [ref=e159]:
+              - img "Sell Phone" [ref=e161]
+              - generic [ref=e162]: Sell Phone
+          - link "Buy Gadgets Buy Gadgets" [ref=e164]:
+            - /url: /buy-refurbished-gadgets
+            - generic [ref=e165]:
+              - img "Buy Gadgets" [ref=e167]
+              - generic [ref=e168]: Buy Gadgets
+          - link "Buy Phone Buy Phone" [ref=e170]:
+            - /url: buy-refurbished-mobile-phones
+            - generic [ref=e171]:
+              - img "Buy Phone" [ref=e173]
+              - generic [ref=e174]: Buy Phone
+          - link "Buy Laptops Buy Laptops" [ref=e176]:
+            - /url: /buy-refurbished-laptops
+            - generic [ref=e177]:
+              - img "Buy Laptops" [ref=e179]
+              - generic [ref=e180]: Buy Laptops
+          - link "Repair Phone Repair Phone" [ref=e182]:
+            - /url: /repair
+            - generic [ref=e183]:
+              - img "Repair Phone" [ref=e185]
+              - generic [ref=e186]: Repair Phone
+          - link "Repair Laptop Repair Laptop" [ref=e188]:
+            - /url: /laptop-repair
+            - generic [ref=e189]:
+              - img "Repair Laptop" [ref=e191]
+              - generic [ref=e192]: Repair Laptop
+          - link "Find New Phone Find New Phone" [ref=e194]:
+            - /url: /find-new-phone
+            - generic [ref=e195]:
+              - img "Find New Phone" [ref=e197]
+              - generic [ref=e198]: Find New Phone
+          - link "Nearby Stores Nearby Stores" [ref=e200]:
+            - /url: /offline-stores
+            - generic [ref=e201]:
+              - img "Nearby Stores" [ref=e203]
+              - generic [ref=e204]: Nearby Stores
+          - link "New Accessories New Accessories" [ref=e206]:
+            - /url: /buy-accessories
+            - generic [ref=e207]:
+              - img "New Accessories" [ref=e209]
+              - generic [ref=e210]: New Accessories
+          - link "Buy Smartwatches Buy Smartwatches" [ref=e212]:
+            - /url: /buy-refurbished-smart-watches
+            - generic [ref=e213]:
+              - img "Buy Smartwatches" [ref=e215]
+              - generic [ref=e216]: Buy Smartwatches
+          - link "Recycle Recycle" [ref=e218]:
+            - /url: /recycle-old-mobile-phone
+            - generic [ref=e219]:
+              - img "Recycle" [ref=e221]
+              - generic [ref=e222]: Recycle
+      - generic [ref=e224]:
+        - heading "Sell Your Old Device Now" [level=2] [ref=e225]
+        - generic [ref=e226]:
+          - link "Sell Phone Sell Phone" [ref=e228]:
+            - /url: /sell-old-mobile-phone
+            - generic [ref=e229]:
+              - img "Sell Phone" [ref=e231]
+              - generic [ref=e232]: Sell Phone
+          - link "Sell Laptop Sell Laptop" [ref=e234]:
+            - /url: /sell-old-laptop
+            - generic [ref=e235]:
+              - img "Sell Laptop" [ref=e237]
+              - generic [ref=e238]: Sell Laptop
+          - link "Sell TV Sell TV" [ref=e240]:
+            - /url: /sell-old-television
+            - generic [ref=e241]:
+              - img "Sell TV" [ref=e243]
+              - generic [ref=e244]: Sell TV
+          - link "Sell Tablet Sell Tablet" [ref=e246]:
+            - /url: /sell-old-tablet
+            - generic [ref=e247]:
+              - img "Sell Tablet" [ref=e249]
+              - generic [ref=e250]: Sell Tablet
+          - link "Sell Gaming Consoles Sell Gaming Consoles" [ref=e252]:
+            - /url: /sell-old-gaming-consoles
+            - generic [ref=e253]:
+              - img "Sell Gaming Consoles" [ref=e255]
+              - generic [ref=e256]: Sell Gaming Consoles
+          - link "Sell Smartwatch Sell Smartwatch" [ref=e258]:
+            - /url: /sell-old-smart-watch
+            - generic [ref=e259]:
+              - img "Sell Smartwatch" [ref=e261]
+              - generic [ref=e262]: Sell Smartwatch
+          - link "Sell Smart Speakers Sell Smart Speakers" [ref=e264]:
+            - /url: /sell-old-smart-speaker
+            - generic [ref=e265]:
+              - img "Sell Smart Speakers" [ref=e267]
+              - generic [ref=e268]: Sell Smart Speakers
+          - generic [ref=e271]:
+            - img "Sell More" [ref=e273]
+            - generic [ref=e274]: Sell More
+      - generic [ref=e279]:
+        - generic [ref=e280]:
+          - heading "Buy Refurbished Devices" [level=2] [ref=e283]
+          - link "View All" [ref=e284]:
+            - /url: /buy-refurbished-mobile-phones/best-selling-phones
+            - generic [ref=e285] [cursor=pointer]: View All
+        - generic [ref=e288]:
+          - link "cashify-assured Samsung Galaxy S21 Ultra 5G - Refurbished ₹36,201 OFF Samsung Galaxy S21 Ultra 5G - Refurbished Summer Sale 4.3 star -49% ₹37,399 ₹73,600 ₹36,063 with cashify-gold-icon" [ref=e291]:
+            - /url: /buy-refurbished-mobile-phones/renewed-samsung-galaxy-s21-ultra-5g/sale/93257
+            - generic [ref=e292] [cursor=pointer]:
+              - img "cashify-assured" [ref=e294]
+              - img "Samsung Galaxy S21 Ultra 5G - Refurbished" [ref=e296]
+              - generic [ref=e298]: ₹36,201 OFF
+              - heading "Samsung Galaxy S21 Ultra 5G - Refurbished" [level=3] [ref=e299]
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - generic [ref=e302]: Summer Sale
+                  - generic [ref=e304]:
+                    - generic [ref=e305]: "4.3"
+                    - img "star" [ref=e307]
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - generic [ref=e311]: "-49%"
+                    - heading "₹37,399" [level=3] [ref=e312]
+                    - generic [ref=e313]: ₹73,600
+                  - generic [ref=e316]:
+                    - generic [ref=e317]: ₹36,063
+                    - generic [ref=e318]: with
+                    - img "cashify-gold-icon" [ref=e319]
+          - link "cashify-assured Samsung Galaxy S24 Ultra 5G - Refurbished ₹66,900 OFF Samsung Galaxy S24 Ultra 5G - Refurbished Summer Sale 4.8 star -50% ₹68,099 ₹1,34,999 ₹66,149 with cashify-gold-icon" [ref=e322]:
+            - /url: /buy-refurbished-mobile-phones/renewed-samsung-galaxy-s24-ultra/sale/139055
+            - generic [ref=e323] [cursor=pointer]:
+              - img "cashify-assured" [ref=e325]
+              - img "Samsung Galaxy S24 Ultra 5G - Refurbished" [ref=e327]
+              - generic [ref=e329]: ₹66,900 OFF
+              - heading "Samsung Galaxy S24 Ultra 5G - Refurbished" [level=3] [ref=e330]
+              - generic [ref=e331]:
+                - generic [ref=e332]:
+                  - generic [ref=e333]: Summer Sale
+                  - generic [ref=e335]:
+                    - generic [ref=e336]: "4.8"
+                    - img "star" [ref=e338]
+                - generic [ref=e340]:
+                  - generic [ref=e341]:
+                    - generic [ref=e342]: "-50%"
+                    - heading "₹68,099" [level=3] [ref=e343]
+                    - generic [ref=e344]: ₹1,34,999
+                  - generic [ref=e347]:
+                    - generic [ref=e348]: ₹66,149
+                    - generic [ref=e349]: with
+                    - img "cashify-gold-icon" [ref=e350]
+          - link "cashify-assured Samsung Galaxy S20 FE 5G - Refurbished ₹17,400 OFF Samsung Galaxy S20 FE 5G - Refurbished Summer Sale 4.4 star -52% ₹15,799 ₹33,199 ₹14,895 with cashify-gold-icon" [ref=e353]:
+            - /url: /buy-refurbished-mobile-phones/renewed-samsung-galaxy-s20-fe-5g/sale/125746
+            - generic [ref=e354] [cursor=pointer]:
+              - img "cashify-assured" [ref=e356]
+              - img "Samsung Galaxy S20 FE 5G - Refurbished" [ref=e358]
+              - generic [ref=e360]: ₹17,400 OFF
+              - heading "Samsung Galaxy S20 FE 5G - Refurbished" [level=3] [ref=e361]
+              - generic [ref=e362]:
+                - generic [ref=e363]:
+                  - generic [ref=e364]: Summer Sale
+                  - generic [ref=e366]:
+                    - generic [ref=e367]: "4.4"
+                    - img "star" [ref=e369]
+                - generic [ref=e371]:
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: "-52%"
+                    - heading "₹15,799" [level=3] [ref=e374]
+                    - generic [ref=e375]: ₹33,199
+                  - generic [ref=e378]:
+                    - generic [ref=e379]: ₹14,895
+                    - generic [ref=e380]: with
+                    - img "cashify-gold-icon" [ref=e381]
+          - link "cashify-assured Samsung Galaxy S25 Edge - Refurbished ₹62,100 OFF Samsung Galaxy S25 Edge - Refurbished Summer Sale 4.8 star -52% ₹57,699 ₹1,19,799 ₹55,957 with cashify-gold-icon" [ref=e384]:
+            - /url: /buy-refurbished-mobile-phones/renewed-samsung-galaxy-s25-edge/sale/159769
+            - generic [ref=e385] [cursor=pointer]:
+              - img "cashify-assured" [ref=e387]
+              - img "Samsung Galaxy S25 Edge - Refurbished" [ref=e389]
+              - generic [ref=e391]: ₹62,100 OFF
+              - heading "Samsung Galaxy S25 Edge - Refurbished" [level=3] [ref=e392]
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - generic [ref=e395]: Summer Sale
+                  - generic [ref=e397]:
+                    - generic [ref=e398]: "4.8"
+                    - img "star" [ref=e400]
+                - generic [ref=e402]:
+                  - generic [ref=e403]:
+                    - generic [ref=e404]: "-52%"
+                    - heading "₹57,699" [level=3] [ref=e405]
+                    - generic [ref=e406]: ₹1,19,799
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: ₹55,957
+                    - generic [ref=e411]: with
+                    - img "cashify-gold-icon" [ref=e412]
+          - link "cashify-assured OnePlus Nord 2 5G - Refurbished ₹13,100 OFF OnePlus Nord 2 5G - Refurbished Summer Sale 4.0 star -47% ₹14,799 ₹27,899 ₹13,915 with cashify-gold-icon" [ref=e415]:
+            - /url: /buy-refurbished-mobile-phones/renewed-oneplus-nord-2-5g/sale/92131
+            - generic [ref=e416] [cursor=pointer]:
+              - img "cashify-assured" [ref=e418]
+              - img "OnePlus Nord 2 5G - Refurbished" [ref=e420]
+              - generic [ref=e422]: ₹13,100 OFF
+              - heading "OnePlus Nord 2 5G - Refurbished" [level=3] [ref=e423]
+              - generic [ref=e424]:
+                - generic [ref=e425]:
+                  - generic [ref=e426]: Summer Sale
+                  - generic [ref=e428]:
+                    - generic [ref=e429]: "4.0"
+                    - img "star" [ref=e431]
+                - generic [ref=e433]:
+                  - generic [ref=e434]:
+                    - generic [ref=e435]: "-47%"
+                    - heading "₹14,799" [level=3] [ref=e436]
+                    - generic [ref=e437]: ₹27,899
+                  - generic [ref=e440]:
+                    - generic [ref=e441]: ₹13,915
+                    - generic [ref=e442]: with
+                    - img "cashify-gold-icon" [ref=e443]
+          - link "cashify-assured OnePlus 12 - Refurbished ₹25,500 OFF OnePlus 12 - Refurbished Summer Sale 4.9 star -39% ₹39,499 ₹64,999 ₹38,121 with cashify-gold-icon" [ref=e446]:
+            - /url: /buy-refurbished-mobile-phones/renewed-oneplus-12/sale/139268
+            - generic [ref=e447] [cursor=pointer]:
+              - img "cashify-assured" [ref=e449]
+              - img "OnePlus 12 - Refurbished" [ref=e451]
+              - generic [ref=e453]: ₹25,500 OFF
+              - heading "OnePlus 12 - Refurbished" [level=3] [ref=e454]
+              - generic [ref=e455]:
+                - generic [ref=e456]:
+                  - generic [ref=e457]: Summer Sale
+                  - generic [ref=e459]:
+                    - generic [ref=e460]: "4.9"
+                    - img "star" [ref=e462]
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]: "-39%"
+                    - heading "₹39,499" [level=3] [ref=e467]
+                    - generic [ref=e468]: ₹64,999
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: ₹38,121
+                    - generic [ref=e473]: with
+                    - img "cashify-gold-icon" [ref=e474]
+      - generic [ref=e479]:
+        - generic [ref=e480]:
+          - heading "Refurbished Laptops" [level=2] [ref=e483]
+          - link "View All" [ref=e484]:
+            - /url: /buy-refurbished-laptops/all-laptops/sale
+            - generic [ref=e485] [cursor=pointer]: View All
+        - generic [ref=e488]:
+          - link "cashify-assured 1 left Apple MacBook Pro 2023 A2992 (Apple M3 Max Chip 14 Inch)- Refurbished ₹1,00,000 OFF Apple MacBook Pro 2023 A2992 (Apple M3 Max Chip 14 Inch)- Refurbished Lowest Price 4.2 star -29% ₹2,49,999 ₹3,49,999 ₹2,47,399 with cashify-gold-icon" [ref=e491]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-pro-2023-a2992-apple-m3-max-chip-14-inch/sale/183503
+            - generic [ref=e492] [cursor=pointer]:
+              - generic [ref=e493]:
+                - img "cashify-assured" [ref=e494]
+                - generic [ref=e496]: 1 left
+              - img "Apple MacBook Pro 2023 A2992 (Apple M3 Max Chip 14 Inch)- Refurbished" [ref=e498]
+              - generic [ref=e500]: ₹1,00,000 OFF
+              - heading "Apple MacBook Pro 2023 A2992 (Apple M3 Max Chip 14 Inch)- Refurbished" [level=3] [ref=e501]
+              - generic [ref=e502]:
+                - generic [ref=e503]:
+                  - generic [ref=e504]: Lowest Price
+                  - generic [ref=e506]:
+                    - generic [ref=e507]: "4.2"
+                    - img "star" [ref=e509]
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - generic [ref=e513]: "-29%"
+                    - heading "₹2,49,999" [level=3] [ref=e514]
+                    - generic [ref=e515]: ₹3,49,999
+                  - generic [ref=e518]:
+                    - generic [ref=e519]: ₹2,47,399
+                    - generic [ref=e520]: with
+                    - img "cashify-gold-icon" [ref=e521]
+          - link "cashify-assured Apple MacBook Pro 2024 A3401 (Apple M4 Pro 14 Inch)- Refurbished ₹48,400 OFF Apple MacBook Pro 2024 A3401 (Apple M4 Pro 14 Inch)- Refurbished Lowest Price 5.0 star -24% ₹1,49,999 ₹1,98,399 ₹1,46,411 with cashify-gold-icon" [ref=e524]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-pro-2024-a3401-apple-m4-pro-14-inch/sale/175410
+            - generic [ref=e525] [cursor=pointer]:
+              - img "cashify-assured" [ref=e527]
+              - img "Apple MacBook Pro 2024 A3401 (Apple M4 Pro 14 Inch)- Refurbished" [ref=e529]
+              - generic [ref=e531]: ₹48,400 OFF
+              - heading "Apple MacBook Pro 2024 A3401 (Apple M4 Pro 14 Inch)- Refurbished" [level=3] [ref=e532]
+              - generic [ref=e533]:
+                - generic [ref=e534]:
+                  - generic [ref=e535]: Lowest Price
+                  - generic [ref=e537]:
+                    - generic [ref=e538]: "5.0"
+                    - img "star" [ref=e540]
+                - generic [ref=e542]:
+                  - generic [ref=e543]:
+                    - generic [ref=e544]: "-24%"
+                    - heading "₹1,49,999" [level=3] [ref=e545]
+                    - generic [ref=e546]: ₹1,98,399
+                  - generic [ref=e549]:
+                    - generic [ref=e550]: ₹1,46,411
+                    - generic [ref=e551]: with
+                    - img "cashify-gold-icon" [ref=e552]
+          - link "cashify-assured 5 left Apple MacBook Pro 2023 A2992 (Apple M3 Pro Chip 14 Inch)- Refurbished ₹53,000 OFF Apple MacBook Pro 2023 A2992 (Apple M3 Pro Chip 14 Inch)- Refurbished Lowest Price 5.0 star -27% ₹1,39,999 ₹1,92,999 ₹1,36,611 with cashify-gold-icon" [ref=e555]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-pro-2023-a2992-apple-m3-pro-chip-14-inch/sale/155828
+            - generic [ref=e556] [cursor=pointer]:
+              - generic [ref=e557]:
+                - img "cashify-assured" [ref=e558]
+                - generic [ref=e560]: 5 left
+              - img "Apple MacBook Pro 2023 A2992 (Apple M3 Pro Chip 14 Inch)- Refurbished" [ref=e562]
+              - generic [ref=e564]: ₹53,000 OFF
+              - heading "Apple MacBook Pro 2023 A2992 (Apple M3 Pro Chip 14 Inch)- Refurbished" [level=3] [ref=e565]
+              - generic [ref=e566]:
+                - generic [ref=e567]:
+                  - generic [ref=e568]: Lowest Price
+                  - generic [ref=e570]:
+                    - generic [ref=e571]: "5.0"
+                    - img "star" [ref=e573]
+                - generic [ref=e575]:
+                  - generic [ref=e576]:
+                    - generic [ref=e577]: "-27%"
+                    - heading "₹1,39,999" [level=3] [ref=e578]
+                    - generic [ref=e579]: ₹1,92,999
+                  - generic [ref=e582]:
+                    - generic [ref=e583]: ₹1,36,611
+                    - generic [ref=e584]: with
+                    - img "cashify-gold-icon" [ref=e585]
+          - link "cashify-assured 3 left Apple MacBook Pro 2024 A3112 (Apple M4 Chip 14 Inch)- Refurbished ₹45,100 OFF Apple MacBook Pro 2024 A3112 (Apple M4 Chip 14 Inch)- Refurbished Lowest Price 4.7 star -27% ₹1,19,999 ₹1,65,099 ₹1,17,011 with cashify-gold-icon" [ref=e588]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-pro-2024-a3112-apple-m4-14-inch/sale/172701
+            - generic [ref=e589] [cursor=pointer]:
+              - generic [ref=e590]:
+                - img "cashify-assured" [ref=e591]
+                - generic [ref=e593]: 3 left
+              - img "Apple MacBook Pro 2024 A3112 (Apple M4 Chip 14 Inch)- Refurbished" [ref=e595]
+              - generic [ref=e597]: ₹45,100 OFF
+              - heading "Apple MacBook Pro 2024 A3112 (Apple M4 Chip 14 Inch)- Refurbished" [level=3] [ref=e598]
+              - generic [ref=e599]:
+                - generic [ref=e600]:
+                  - generic [ref=e601]: Lowest Price
+                  - generic [ref=e603]:
+                    - generic [ref=e604]: "4.7"
+                    - img "star" [ref=e606]
+                - generic [ref=e608]:
+                  - generic [ref=e609]:
+                    - generic [ref=e610]: "-27%"
+                    - heading "₹1,19,999" [level=3] [ref=e611]
+                    - generic [ref=e612]: ₹1,65,099
+                  - generic [ref=e615]:
+                    - generic [ref=e616]: ₹1,17,011
+                    - generic [ref=e617]: with
+                    - img "cashify-gold-icon" [ref=e618]
+          - link "cashify-assured 4 left Apple MacBook Pro 2023 A2779 (Apple M2 Pro Chip 14 Inch)- Refurbished ₹39,000 OFF Apple MacBook Pro 2023 A2779 (Apple M2 Pro Chip 14 Inch)- Refurbished Lowest Price 4.6 star -26% ₹1,09,999 ₹1,48,999 ₹1,07,211 with cashify-gold-icon" [ref=e621]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-pro-2023-a2779-apple-m2-pro-chip-14-inch/sale/151930
+            - generic [ref=e622] [cursor=pointer]:
+              - generic [ref=e623]:
+                - img "cashify-assured" [ref=e624]
+                - generic [ref=e626]: 4 left
+              - img "Apple MacBook Pro 2023 A2779 (Apple M2 Pro Chip 14 Inch)- Refurbished" [ref=e628]
+              - generic [ref=e630]: ₹39,000 OFF
+              - heading "Apple MacBook Pro 2023 A2779 (Apple M2 Pro Chip 14 Inch)- Refurbished" [level=3] [ref=e631]
+              - generic [ref=e632]:
+                - generic [ref=e633]:
+                  - generic [ref=e634]: Lowest Price
+                  - generic [ref=e636]:
+                    - generic [ref=e637]: "4.6"
+                    - img "star" [ref=e639]
+                - generic [ref=e641]:
+                  - generic [ref=e642]:
+                    - generic [ref=e643]: "-26%"
+                    - heading "₹1,09,999" [level=3] [ref=e644]
+                    - generic [ref=e645]: ₹1,48,999
+                  - generic [ref=e648]:
+                    - generic [ref=e649]: ₹1,07,211
+                    - generic [ref=e650]: with
+                    - img "cashify-gold-icon" [ref=e651]
+          - link "cashify-assured Apple Macbook Air 2025 A3241 (Apple M4 15 Inch)- Refurbished ₹46,000 OFF Apple Macbook Air 2025 A3241 (Apple M4 15 Inch)- Refurbished Lowest Price 5.0 star -34% ₹90,999 ₹1,36,999 ₹88,591 with cashify-gold-icon" [ref=e654]:
+            - /url: /buy-refurbished-laptops/renewed-macbook-air-2025-a3241-apple-m4-15-inch/sale/162209
+            - generic [ref=e655] [cursor=pointer]:
+              - img "cashify-assured" [ref=e657]
+              - img "Apple Macbook Air 2025 A3241 (Apple M4 15 Inch)- Refurbished" [ref=e659]
+              - generic [ref=e661]: ₹46,000 OFF
+              - heading "Apple Macbook Air 2025 A3241 (Apple M4 15 Inch)- Refurbished" [level=3] [ref=e662]
+              - generic [ref=e663]:
+                - generic [ref=e664]:
+                  - generic [ref=e665]: Lowest Price
+                  - generic [ref=e667]:
+                    - generic [ref=e668]: "5.0"
+                    - img "star" [ref=e670]
+                - generic [ref=e672]:
+                  - generic [ref=e673]:
+                    - generic [ref=e674]: "-34%"
+                    - heading "₹90,999" [level=3] [ref=e675]
+                    - generic [ref=e676]: ₹1,36,999
+                  - generic [ref=e679]:
+                    - generic [ref=e680]: ₹88,591
+                    - generic [ref=e681]: with
+                    - img "cashify-gold-icon" [ref=e682]
+      - generic [ref=e684]:
+        - generic [ref=e685]:
+          - heading "Our Exclusive Stores" [level=2] [ref=e687]
+          - link "View all stores" [ref=e688]:
+            - /url: /offline-stores
+            - generic [ref=e690] [cursor=pointer]: View all stores
+        - generic [ref=e691]:
+          - generic [ref=e692]:
+            - img "200+ Experience Centres" [ref=e694]
+            - heading "200+ Experience Centres" [level=4] [ref=e695]
+          - generic [ref=e696]:
+            - img "4.5+ Star Ratings" [ref=e698]
+            - heading "4.5+ Star Ratings" [level=4] [ref=e699]
+        - generic [ref=e700]:
+          - generic [ref=e704]:
+            - textbox "Enter Pincode" [ref=e705]
+            - img [ref=e707] [cursor=pointer]
+          - generic [ref=e713]:
+            - generic [ref=e714]:
+              - generic [ref=e715]: Gurgaon
+              - heading "Cashify Mobile Phone Store Airia Mall Sec 68 Gurugram" [level=3] [ref=e716]
+              - generic [ref=e717]:
+                - generic [ref=e718]: Ground Floor, Reach, AIRIA MALL, Badshahpur Sohna Rd Hwy, Sector 68, Gurugram, Haryana
+                - generic [ref=e719]:
+                  - generic [ref=e720]: "Timings :"
+                  - generic [ref=e721]: 11:00 AM - 10:00 PM
+                - link "View Details" [ref=e722]:
+                  - /url: /offline-stores/cashify-store-airia-mall-sec-68-in-gurgaon
+                  - generic [ref=e723] [cursor=pointer]:
+                    - generic [ref=e724]: View Details
+                    - img [ref=e725]
+            - generic [ref=e727]:
+              - generic [ref=e728]: Gurgaon
+              - heading "Cashify Buy, Sell and Repair Mobile Store Sushant Lok" [level=3] [ref=e729]
+              - generic [ref=e730]:
+                - generic [ref=e731]: GF 133, Sushant Vyapar Kendra, Sushant Lok, Gurgaon
+                - generic [ref=e732]:
+                  - generic [ref=e733]: "Timings :"
+                  - generic [ref=e734]: 10:00 AM - 09:00 PM
+                - link "View Details" [ref=e735]:
+                  - /url: /offline-stores/cashify-store-sushant-lok-in-gurgaon
+                  - generic [ref=e736] [cursor=pointer]:
+                    - generic [ref=e737]: View Details
+                    - img [ref=e738]
+            - generic [ref=e740]:
+              - generic [ref=e741]: Gurgaon
+              - heading "Cashify Buy, Sell and Repair Mobile Store Sec 14 Gurgaon" [level=3] [ref=e742]
+              - generic [ref=e743]:
+                - generic [ref=e744]: Shop No.13, Old Delhi road, Opp. Plaza Solitaire Hotel Bank market, Gurugram
+                - generic [ref=e745]:
+                  - generic [ref=e746]: "Timings :"
+                  - generic [ref=e747]: 10:00 AM - 09:00 PM
+                - link "View Details" [ref=e748]:
+                  - /url: /offline-stores/cashify-store-sector-14-in-gurgaon
+                  - generic [ref=e749] [cursor=pointer]:
+                    - generic [ref=e750]: View Details
+                    - img [ref=e751]
+            - generic [ref=e753]:
+              - generic [ref=e754]: Gurgaon
+              - heading "Cashify Buy, Sell and Repair Mobile Store Sec 14 Gurgaon" [level=3] [ref=e755]
+              - generic [ref=e756]:
+                - generic [ref=e757]: Shop No.13, Old Delhi road, Opp. Plaza Solitaire Hotel Bank market, Gurugram
+                - generic [ref=e758]:
+                  - generic [ref=e759]: "Timings :"
+                  - generic [ref=e760]: 10:00 AM - 09:00 PM
+                - link "View Details" [ref=e761]:
+                  - /url: /offline-stores/cashify-store-sec-14-store-in-gurgaon
+                  - generic [ref=e762] [cursor=pointer]:
+                    - generic [ref=e763]: View Details
+                    - img [ref=e764]
+            - generic [ref=e766]:
+              - generic [ref=e767]: Gurgaon
+              - heading "Cashify Buy, Sell and Repair Mobile Store MG Road Gurgaon" [level=3] [ref=e768]
+              - generic [ref=e769]:
+                - generic [ref=e770]: MG Road Metro, Exit Gate no 2, M.G. Road Gurgaon
+                - generic [ref=e771]:
+                  - generic [ref=e772]: "Timings :"
+                  - generic [ref=e773]: 09:00 AM - 09:00 PM
+                - link "View Details" [ref=e774]:
+                  - /url: /offline-stores/cashify-store-mg-road-metro-in-gurgaon
+                  - generic [ref=e775] [cursor=pointer]:
+                    - generic [ref=e776]: View Details
+                    - img [ref=e777]
+    - generic [ref=e779]:
+      - generic [ref=e783]:
+        - generic [ref=e784]:
+          - generic [ref=e785]: Trusted by 184.01 Lac + Happy Users and Major Brands since 2015
+          - heading [level=4]
+        - generic [ref=e786]:
+          - generic [ref=e789]:
+            - img "icon" [ref=e790]
+            - generic [ref=e791]: 13801.05Cr.
+            - generic [ref=e792]: Cash Given
+          - generic [ref=e795]:
+            - img "icon" [ref=e796]
+            - generic [ref=e797]: 204.46Lac
+            - generic [ref=e798]: Gadgets Encashed
+      - generic [ref=e805]:
+        - generic [ref=e806]:
+          - img "quote-Tarun Singh Verma" [ref=e807]
+          - paragraph [ref=e809]: Sold off my phone very easily and got the payment on the spot. Best experience so far.
+          - generic [ref=e810]:
+            - img "Tarun Singh Verma" [ref=e812]
+            - generic [ref=e813]:
+              - generic [ref=e814]: Tarun Singh Verma
+              - generic [ref=e815]: New Delhi
+        - generic [ref=e816]:
+          - img "quote-Karan Sharma" [ref=e817]
+          - paragraph [ref=e819]: Well trained staff. Overall a positive experience in selling my phone at Cashify.
+          - generic [ref=e820]:
+            - img "Karan Sharma" [ref=e822]
+            - generic [ref=e823]:
+              - generic [ref=e824]: Karan Sharma
+              - generic [ref=e825]: Delhi NCR
+        - generic [ref=e826]:
+          - img "quote-Abhiyash" [ref=e827]
+          - paragraph [ref=e829]: No complaints, sold my phone very easily here. Definitely worth a try.
+          - generic [ref=e830]:
+            - img "Abhiyash" [ref=e832]
+            - generic [ref=e833]:
+              - generic [ref=e834]: Abhiyash
+              - generic [ref=e835]: New Delhi
+        - generic [ref=e836]:
+          - img "quote-Vinit Kumar" [ref=e837]
+          - paragraph [ref=e839]: Payment was very instant and the whole process was quick. Will recommend it.
+          - generic [ref=e840]:
+            - img "Vinit Kumar" [ref=e842]
+            - generic [ref=e843]:
+              - generic [ref=e844]: Vinit Kumar
+              - generic [ref=e845]: New Delhi
+        - generic [ref=e846]:
+          - img "quote-Satheesh Kumaram" [ref=e847]
+          - paragraph [ref=e849]: It was a wonderful experience with Cashify. I got a reasonable price for my product and their response was very quick! Good to see such a service available
+          - generic [ref=e850]:
+            - img "Satheesh Kumaram" [ref=e852]
+            - generic [ref=e853]:
+              - generic [ref=e854]: Satheesh Kumaram
+              - generic [ref=e855]: Bengaluru
+        - generic [ref=e856]:
+          - img "quote-Kiran Kumar Balusu" [ref=e857]
+          - paragraph [ref=e859]: Good service! Customer support was polite & technician was experienced too. Will recommend to others for sure.
+          - generic [ref=e860]:
+            - img "Kiran Kumar Balusu" [ref=e862]
+            - generic [ref=e863]:
+              - generic [ref=e864]: Kiran Kumar Balusu
+              - generic [ref=e865]: Hyderabad
+      - generic [ref=e870]:
+        - img "img" [ref=e871]
+        - img "img" [ref=e872]
+        - img "img" [ref=e873]
+        - img "img" [ref=e874]
+        - img "img" [ref=e875]
+        - img "img" [ref=e876]
+        - img "img" [ref=e877]
+        - img "img" [ref=e878]
+        - img "img" [ref=e879]
+        - img "img" [ref=e880]
+        - img "img" [ref=e881]
+        - img "img" [ref=e882]
+        - img "img" [ref=e883]
+        - img "img" [ref=e884]
+      - generic [ref=e886]:
+        - generic [ref=e887]:
+          - heading "Better For Pocket. Buy Refurbished" [level=2] [ref=e888]
+          - link "See all" [ref=e890] [cursor=pointer]:
+            - /url: /articles/
+            - generic [ref=e891]: See all
+        - generic [ref=e895]:
+          - 'link "Apple iPhone 13 Mini Refurbished Deal: Warranty Included Apple iPhone 13 Mini Refurbished Deal: Warranty Included" [ref=e896]':
+            - /url: /apple-iphone-13-mini-refurbished-deal-warranty-included
+            - generic [ref=e898]:
+              - 'img "Apple iPhone 13 Mini Refurbished Deal: Warranty Included" [ref=e899]'
+              - 'heading "Apple iPhone 13 Mini Refurbished Deal: Warranty Included" [level=3] [ref=e901]':
+                - generic [ref=e902]: "Apple iPhone 13 Mini Refurbished Deal: Warranty Included"
+          - 'link "Get Refurbished Bose Portable Smart Speaker With Alexa: Specs, Price &#038; Performance Get Refurbished Bose Portable Smart Speaker With Alexa: Specs, Price & Performance" [ref=e903]':
+            - /url: /get-best-deal-on-refurbished-bose-portable-smart-speaker-all-details
+            - generic [ref=e905]:
+              - 'img "Get Refurbished Bose Portable Smart Speaker With Alexa: Specs, Price &#038; Performance" [ref=e906]'
+              - 'heading "Get Refurbished Bose Portable Smart Speaker With Alexa: Specs, Price & Performance" [level=3] [ref=e908]':
+                - generic [ref=e909]: "Get Refurbished Bose Portable Smart Speaker With Alexa: Specs, Price & Performance"
+          - 'link "Best Deal On Refurbished Xiaomi Redmi Note 11S: Budget Powerhouse You Can’t Miss! Best Deal On Refurbished Xiaomi Redmi Note 11S: Budget Powerhouse You Can’t Miss!" [ref=e910]':
+            - /url: /best-deal-on-refurbished-xiaomi-redmi-note-11s-budget-powerhouse
+            - generic [ref=e912]:
+              - 'img "Best Deal On Refurbished Xiaomi Redmi Note 11S: Budget Powerhouse You Can’t Miss!" [ref=e913]'
+              - 'heading "Best Deal On Refurbished Xiaomi Redmi Note 11S: Budget Powerhouse You Can’t Miss!" [level=3] [ref=e915]':
+                - generic [ref=e916]: "Best Deal On Refurbished Xiaomi Redmi Note 11S: Budget Powerhouse You Can’t Miss!"
+          - 'link "Get Refurbished Samsung Galaxy S20 FE Under ₹15,000: Top Budget Flagship Deal Get Refurbished Samsung Galaxy S20 FE Under ₹15,000: Top Budget Flagship Deal" [ref=e917]':
+            - /url: /get-refurbished-samsung-galaxy-s20-fe-under-15000-flagship-deal
+            - generic [ref=e919]:
+              - 'img "Get Refurbished Samsung Galaxy S20 FE Under ₹15,000: Top Budget Flagship Deal" [ref=e920]'
+              - 'heading "Get Refurbished Samsung Galaxy S20 FE Under ₹15,000: Top Budget Flagship Deal" [level=3] [ref=e922]':
+                - generic [ref=e923]: "Get Refurbished Samsung Galaxy S20 FE Under ₹15,000: Top Budget Flagship Deal"
+          - 'link "Best Refurbished Laptops Compared: MacBook Pro 2019 vs Lenovo ThinkPad E14 Gen 2 Best Refurbished Laptops Compared: MacBook Pro 2019 vs Lenovo ThinkPad E14 Gen 2" [ref=e924]':
+            - /url: /compare-macbook-pro-vs-lenovo-thinkpad-e14-gen-2-all-details
+            - generic [ref=e926]:
+              - 'img "Best Refurbished Laptops Compared: MacBook Pro 2019 vs Lenovo ThinkPad E14 Gen 2" [ref=e927]'
+              - 'heading "Best Refurbished Laptops Compared: MacBook Pro 2019 vs Lenovo ThinkPad E14 Gen 2" [level=3] [ref=e929]':
+                - generic [ref=e930]: "Best Refurbished Laptops Compared: MacBook Pro 2019 vs Lenovo ThinkPad E14 Gen 2"
+      - generic [ref=e932]:
+        - generic [ref=e933]:
+          - heading "Be Smart. Sell Smart" [level=2] [ref=e934]
+          - link "See all" [ref=e936] [cursor=pointer]:
+            - /url: /articles/
+            - generic [ref=e937]: See all
+        - generic [ref=e941]:
+          - 'link "512GB Phones: The Sweet Spot For Resale Value In 2026 512GB Phones: The Sweet Spot For Resale Value In 2026" [ref=e942]':
+            - /url: /512gb-phones-the-sweet-spot-for-resale-value
+            - generic [ref=e944]:
+              - 'img "512GB Phones: The Sweet Spot For Resale Value In 2026" [ref=e945]'
+              - 'heading "512GB Phones: The Sweet Spot For Resale Value In 2026" [level=3] [ref=e947]':
+                - generic [ref=e948]: "512GB Phones: The Sweet Spot For Resale Value In 2026"
+          - link "Why iPhones Hold 15% More Resale Value Than Android In India Why iPhones Hold 15% More Resale Value Than Android In India" [ref=e949]:
+            - /url: /why-iphones-hold-more-resale-value-than-android-in-india
+            - generic [ref=e951]:
+              - img "Why iPhones Hold 15% More Resale Value Than Android In India" [ref=e952]
+              - heading "Why iPhones Hold 15% More Resale Value Than Android In India" [level=3] [ref=e954]:
+                - generic [ref=e955]: Why iPhones Hold 15% More Resale Value Than Android In India
+          - link "Verify Your Phone’s ‘Clean’ Status Before Selling- Avoid Surprises Verify Your Phone’s ‘Clean’ Status Before Selling- Avoid Surprises" [ref=e956]:
+            - /url: /verify-your-phones-clean-status-before-selling-avoid-surprises
+            - generic [ref=e958]:
+              - img "Verify Your Phone’s ‘Clean’ Status Before Selling- Avoid Surprises" [ref=e959]
+              - heading "Verify Your Phone’s ‘Clean’ Status Before Selling- Avoid Surprises" [level=3] [ref=e961]:
+                - generic [ref=e962]: Verify Your Phone’s ‘Clean’ Status Before Selling- Avoid Surprises
+          - link "3 Steps to Ensure Your Digital SIM Doesn’t Go With Sold Phones 3 Steps to Ensure Your Digital SIM Doesn’t Go With Sold Phones" [ref=e963]:
+            - /url: /steps-to-ensure-your-digital-sim-doesnt-go-with-sold-phones
+            - generic [ref=e965]:
+              - img "3 Steps to Ensure Your Digital SIM Doesn’t Go With Sold Phones" [ref=e966]
+              - heading "3 Steps to Ensure Your Digital SIM Doesn’t Go With Sold Phones" [level=3] [ref=e968]:
+                - generic [ref=e969]: 3 Steps to Ensure Your Digital SIM Doesn’t Go With Sold Phones
+          - link "Does Phones With Dedicated Neural Engines Could Make You More Money? Does Phones With Dedicated Neural Engines Could Make You More Money?" [ref=e970]:
+            - /url: /does-phones-with-dedicated-neural-engines-could-make-you-more-money
+            - generic [ref=e972]:
+              - img "Does Phones With Dedicated Neural Engines Could Make You More Money?" [ref=e973]
+              - heading "Does Phones With Dedicated Neural Engines Could Make You More Money?" [level=3] [ref=e975]:
+                - generic [ref=e976]: Does Phones With Dedicated Neural Engines Could Make You More Money?
+      - generic [ref=e981]:
+        - generic [ref=e984]:
+          - heading "Hot Deals" [level=2] [ref=e985]
+          - generic [ref=e986]: Exciting offers for more value
+        - generic [ref=e989]:
+          - link "hot_deals_1" [ref=e991]:
+            - /url: /offer/category/buyback
+            - img "hot_deals_1" [ref=e993]
+          - link "hot_deals_2" [ref=e995]:
+            - /url: /offer/category/mobile-exchange-offers
+            - img "hot_deals_2" [ref=e997]
+          - link "hot_deals_3" [ref=e999]:
+            - /url: /offer/category/refurbished-device-offers
+            - img "hot_deals_3" [ref=e1001]
+          - link "hot_deals_4" [ref=e1003]:
+            - /url: /offer/category/mobile-repair-offers
+            - img "hot_deals_4" [ref=e1005]
+      - generic [ref=e1007]:
+        - generic [ref=e1008]:
+          - heading "Frequenty Asked Questions" [level=2] [ref=e1009]
+          - generic [ref=e1010]:
+            - generic [ref=e1012] [cursor=pointer]: SellSmart
+            - generic [ref=e1014] [cursor=pointer]: SmartBuy
+            - generic [ref=e1016] [cursor=pointer]: Repair/Others
+        - generic [ref=e1019]:
+          - generic [ref=e1021]:
+            - generic [ref=e1023] [cursor=pointer]: What should I do if my Amazon voucher shows “Already Redeemed”?
+            - img [ref=e1025] [cursor=pointer]
+            - generic [ref=e1028]:
+              - paragraph [ref=e1029]: "If you encounter an error stating that your Amazon voucher has already been redeemed, please follow the steps below to report and resolve the issue:"
+              - list [ref=e1030]:
+                - listitem [ref=e1031]: Please check your Amazon Pay balance, as the voucher might have already been redeemed. If the amount isn’t reflecting in your account, kindly follow the steps mentioned below.
+                - listitem [ref=e1032]:
+                  - strong [ref=e1033]: File a complaint
+                  - text: with the Cyber Crime Department at
+                  - link "https://cybercrime.gov.in" [ref=e1034]:
+                    - /url: https://cybercrime.gov.in/
+                  - text: .
+                - listitem [ref=e1035]:
+                  - text: While filing the complaint, ensure that the complaint notice is submitted
+                  - strong [ref=e1036]: under Section 91 of the Cr.PC
+                  - text: .
+                - listitem [ref=e1037]:
+                  - text: The Cyber Crime team will forward the complaint to
+                  - strong [ref=e1038]:
+                    - link "police-inquiries@amazon.com" [ref=e1039]:
+                      - /url: mailto:police-inquiries@amazon.com
+                  - text: .
+                - listitem [ref=e1040]: Upon receiving the complaint, the Amazon team will share complete redemption details with the investigating Cyber Crime authority.
+          - generic [ref=e1043]:
+            - generic [ref=e1045] [cursor=pointer]: What documents do you need to sell old mobile phone on Cashify?
+            - img [ref=e1047] [cursor=pointer]
+            - paragraph [ref=e1051]: Cashify requires only ID verification to confirm address and identity. Moreover, the user has to provide the Cashify agent with the ID only after the inspection of the phone you are selling. Once you sell the old phone, the agent will ask your Government ID for verification. Cashify accepts Aadhar Card.
+          - generic [ref=e1054]:
+            - generic [ref=e1056] [cursor=pointer]: What if my pickup is delayed?
+            - img [ref=e1058] [cursor=pointer]
+            - paragraph [ref=e1062]: Usually, it doesn’t happen, it may happen due to some unforeseen circumstances. But we will update you with the real-time pickup status. In case of delay, please contact us by email at support@cashify.in. We shall respond to you within one business day and issue a refund/ fresh order.
+          - heading "Load More FAQs" [level=3] [ref=e1065] [cursor=pointer]
+      - generic [ref=e1068]:
+        - generic [ref=e1070]:
+          - heading "Trending Articles" [level=2] [ref=e1071]
+          - link "See all" [ref=e1073] [cursor=pointer]:
+            - /url: /articles/
+            - generic [ref=e1074]: See all
+        - generic [ref=e1075]:
+          - link "All Details About Apple Macbook Ultra Launching In 2026! All Details About Apple Macbook Ultra Launching In 2026! Being a MacBook fan, it gets pretty exciting when you get to know about the MacBook Ultra launch in 2026. To be honest, it might actually change the way people look at high-end MacBooks. The laptop isn’t officially out yet, but trusted leaks and tech experts say it could bring some big upgrades. As a… 13th Mar 2026" [ref=e1076]:
+            - /url: /all-details-about-apple-macbook-ultra-launching
+            - generic [ref=e1077] [cursor=pointer]:
+              - generic [ref=e1078]:
+                - img "All Details About Apple Macbook Ultra Launching In 2026!"
+              - generic [ref=e1079]:
+                - heading "All Details About Apple Macbook Ultra Launching In 2026!" [level=3] [ref=e1080]:
+                  - generic [ref=e1081]: All Details About Apple Macbook Ultra Launching In 2026!
+                - generic [ref=e1082]:
+                  - generic [ref=e1084]: Being a MacBook fan, it gets pretty exciting when you get to know about the MacBook Ultra launch in 2026. To be honest, it might actually change the way people look at high-end MacBooks. The laptop isn’t officially out yet, but trusted leaks and tech experts say it could bring some big upgrades. As a…
+                  - generic [ref=e1085]: 13th Mar 2026
+          - 'link "iQOO Z11x vs OPPO K13: Confusion Solved, See Who Is Better Under 20K iQOO Z11x vs OPPO K13: Confusion Solved, See Who Is Better Under 20K We are just three months into 2026, and the budget range of the Indian phone market is getting heated up just as the weather is getting heated up. This summer, with phones like the Vivo T5x, iQOO Z11x, OPPO K14 and other such phones, the Rs. 20,000 to Rs. 30000 market is getting some solid… 13th Mar 2026" [ref=e1086]':
+            - /url: /iqoo-z11x-vs-oppo-k13-confusion-solved-see-who-is-better
+            - generic [ref=e1087] [cursor=pointer]:
+              - generic [ref=e1088]:
+                - 'img "iQOO Z11x vs OPPO K13: Confusion Solved, See Who Is Better Under 20K"'
+              - generic [ref=e1089]:
+                - 'heading "iQOO Z11x vs OPPO K13: Confusion Solved, See Who Is Better Under 20K" [level=3] [ref=e1090]':
+                  - generic [ref=e1091]: "iQOO Z11x vs OPPO K13: Confusion Solved, See Who Is Better Under 20K"
+                - generic [ref=e1092]:
+                  - generic [ref=e1094]: We are just three months into 2026, and the budget range of the Indian phone market is getting heated up just as the weather is getting heated up. This summer, with phones like the Vivo T5x, iQOO Z11x, OPPO K14 and other such phones, the Rs. 20,000 to Rs. 30000 market is getting some solid…
+                  - generic [ref=e1095]: 13th Mar 2026
+          - link "Oppo Find N6 Launch Date, Specs, Price, And More Oppo Find N6 Launch Date, Specs, Price, And More If you are someone who loves staying ahead with the latest smartphone technology, the Oppo Find N6 is going to grab your attention. This foldable device combines cutting-edge innovation with sleek design, making it ideal for both work and entertainment. In this detailed blog, you will get to know the Oppo Find N6 specs, launch… 13th Mar 2026" [ref=e1096]:
+            - /url: /oppo-find-n6-launch-date-specs-price-and-more
+            - generic [ref=e1097] [cursor=pointer]:
+              - generic [ref=e1098]:
+                - img "Oppo Find N6 Launch Date, Specs, Price, And More"
+              - generic [ref=e1099]:
+                - heading "Oppo Find N6 Launch Date, Specs, Price, And More" [level=3] [ref=e1100]:
+                  - generic [ref=e1101]: Oppo Find N6 Launch Date, Specs, Price, And More
+                - generic [ref=e1102]:
+                  - generic [ref=e1104]: If you are someone who loves staying ahead with the latest smartphone technology, the Oppo Find N6 is going to grab your attention. This foldable device combines cutting-edge innovation with sleek design, making it ideal for both work and entertainment. In this detailed blog, you will get to know the Oppo Find N6 specs, launch…
+                  - generic [ref=e1105]: 13th Mar 2026
+        - generic [ref=e1106]:
+          - 'link "Apple iPhone 17e vs Google Pixel 10a : Full Specs &#038; Features Compared Apple iPhone 17e vs Google Pixel 10a : Full Specs & Features Compared 13th Mar 2026" [ref=e1107]':
+            - /url: /iphone-17e-vs-google-pixel-10a-full-specs-features-compared
+            - generic [ref=e1108] [cursor=pointer]:
+              - 'img "Apple iPhone 17e vs Google Pixel 10a : Full Specs &#038; Features Compared" [ref=e1110]'
+              - generic [ref=e1111]:
+                - 'heading "Apple iPhone 17e vs Google Pixel 10a : Full Specs & Features Compared" [level=3] [ref=e1112]':
+                  - generic [ref=e1113]: "Apple iPhone 17e vs Google Pixel 10a : Full Specs & Features Compared"
+                - generic [ref=e1114]: 13th Mar 2026
+          - 'link "Xiaomi 17 Ultra Vs Samsung Galaxy S26 Ultra: Which Is Better Xiaomi 17 Ultra Vs Samsung Galaxy S26 Ultra: Which Is Better 13th Mar 2026" [ref=e1115]':
+            - /url: /xiaomi-17-ultra-vs-samsung-galaxy-s26-ultra-which-is-better
+            - generic [ref=e1116] [cursor=pointer]:
+              - 'img "Xiaomi 17 Ultra Vs Samsung Galaxy S26 Ultra: Which Is Better" [ref=e1118]'
+              - generic [ref=e1119]:
+                - 'heading "Xiaomi 17 Ultra Vs Samsung Galaxy S26 Ultra: Which Is Better" [level=3] [ref=e1120]':
+                  - generic [ref=e1121]: "Xiaomi 17 Ultra Vs Samsung Galaxy S26 Ultra: Which Is Better"
+                - generic [ref=e1122]: 13th Mar 2026
+          - link "Which Pixel Phones Will Get Android 17? Find The Full List Here Which Pixel Phones Will Get Android 17? Find The Full List Here 12th Mar 2026" [ref=e1123]:
+            - /url: /which-pixel-phones-will-get-android-17-find-the-full-list-here
+            - generic [ref=e1124] [cursor=pointer]:
+              - img "Which Pixel Phones Will Get Android 17? Find The Full List Here" [ref=e1126]
+              - generic [ref=e1127]:
+                - heading "Which Pixel Phones Will Get Android 17? Find The Full List Here" [level=3] [ref=e1128]:
+                  - generic [ref=e1129]: Which Pixel Phones Will Get Android 17? Find The Full List Here
+                - generic [ref=e1130]: 12th Mar 2026
+          - 'link "OnePlus 16 Release Date In India: Expected Price, Camera, Specs! OnePlus 16 Release Date In India: Expected Price, Camera, Specs! 12th Mar 2026" [ref=e1131]':
+            - /url: /oneplus-16-release-date-in-india-expected-price-camera-specs
+            - generic [ref=e1132] [cursor=pointer]:
+              - 'img "OnePlus 16 Release Date In India: Expected Price, Camera, Specs!" [ref=e1134]'
+              - generic [ref=e1135]:
+                - 'heading "OnePlus 16 Release Date In India: Expected Price, Camera, Specs!" [level=3] [ref=e1136]':
+                  - generic [ref=e1137]: "OnePlus 16 Release Date In India: Expected Price, Camera, Specs!"
+                - generic [ref=e1138]: 12th Mar 2026
+      - generic [ref=e1140]:
+        - generic [ref=e1141]:
+          - heading "Recent News" [level=2] [ref=e1142]
+          - link "See all" [ref=e1144] [cursor=pointer]:
+            - /url: /news
+            - generic [ref=e1145]: See all
+        - generic [ref=e1148]:
+          - generic [ref=e1150]:
+            - generic [ref=e1151]:
+              - link "New Samsung Foldable Specs Hint At Tablet-Like 7.6 Inch Screen Design" [ref=e1153]:
+                - /url: /news/new-samsung-foldable-specs-hint-at-tablet-like-7-6-inch-screen-design
+                - img "New Samsung Foldable Specs Hint At Tablet-Like 7.6 Inch Screen Design" [ref=e1154]
+              - link "New Samsung Foldable Specs Hint At Tablet-Like 7.6 Inch Screen Design" [ref=e1157]:
+                - /url: /news/new-samsung-foldable-specs-hint-at-tablet-like-7-6-inch-screen-design
+                - generic [ref=e1158]: New Samsung Foldable Specs Hint At Tablet-Like 7.6 Inch Screen Design
+              - generic [ref=e1160]: Samsung is reportedly working on a new foldable smartphone with a wider design, and recent leaks have revealed several Samsung foldable specs ahead of its expected launch. The upcoming device could feature a large inner display, a powerful flagship processor, and a bigger battery designed specifically for foldable phones. According to a new leak, Samsung’s…
+            - generic [ref=e1161]: 15th Mar 2026
+          - generic [ref=e1163]:
+            - generic [ref=e1164]:
+              - link "Official BGMI 4.3 Update Launch Schedule Announced For India" [ref=e1166]:
+                - /url: /news/official-bgmi-4-3-update-launch-schedule-announced-for-india
+                - img "Official BGMI 4.3 Update Launch Schedule Announced For India" [ref=e1167]
+              - link "Official BGMI 4.3 Update Launch Schedule Announced For India" [ref=e1170]:
+                - /url: /news/official-bgmi-4-3-update-launch-schedule-announced-for-india
+                - generic [ref=e1171]: Official BGMI 4.3 Update Launch Schedule Announced For India
+              - generic [ref=e1173]: The Official BGMI 4.3 Update is set to arrive soon, and Krafton has finally confirmed when players in India can download the latest version of the popular battle royale game. The new update brings a fresh theme, gameplay changes, and several new events that aim to refresh the overall experience for Battlegrounds Mobile India fans.…
+            - generic [ref=e1174]: 15th Mar 2026
+          - generic [ref=e1176]:
+            - generic [ref=e1177]:
+              - 'link "Free Fire OB53 Advance Server Download Guide: Server To Go Live Soon" [ref=e1179]':
+                - /url: /news/free-fire-ob53-advance-server-download-guide-server-to-go-live-soon
+                - 'img "Free Fire OB53 Advance Server Download Guide: Server To Go Live Soon" [ref=e1180]'
+              - 'link "Free Fire OB53 Advance Server Download Guide: Server To Go Live Soon" [ref=e1183]':
+                - /url: /news/free-fire-ob53-advance-server-download-guide-server-to-go-live-soon
+                - generic [ref=e1184]: "Free Fire OB53 Advance Server Download Guide: Server To Go Live Soon"
+              - generic [ref=e1186]: Garena Free Fire fans, get ready for an exciting early look at the next big update! The Free Fire OB53 Advance Server opens on March 20, 2026, giving players a chance to test new characters, weapons, maps, and features before the official release. This special test server stays live until April 2, 2026, and lucky…
+            - generic [ref=e1187]: 15th Mar 2026
+          - generic [ref=e1189]:
+            - generic [ref=e1190]:
+              - link "Instagram End-to-End Encryption To Be Removed From Chats Starting May 2026" [ref=e1192]:
+                - /url: /news/instagram-end-to-end-encryption-to-be-removed-from-chats-starting-may-2026
+                - img "Instagram End-to-End Encryption To Be Removed From Chats Starting May 2026" [ref=e1193]
+              - link "Instagram End-to-End Encryption To Be Removed From Chats Starting May 2026" [ref=e1196]:
+                - /url: /news/instagram-end-to-end-encryption-to-be-removed-from-chats-starting-may-2026
+                - generic [ref=e1197]: Instagram End-to-End Encryption To Be Removed From Chats Starting May 2026
+              - generic [ref=e1199]: Instagram is set to roll back a major privacy feature that it introduced not long ago. The platform will soon remove Instagram end-to-end encryption from its messaging system, a move that has surprised many users who expected stronger privacy protections across Meta’s apps. The change comes through a press release or a major blog update.…
+            - generic [ref=e1200]: 15th Mar 2026
+          - generic [ref=e1202]:
+            - generic [ref=e1203]:
+              - link "OnePlus Nord 6 Launch Leak Points To Early April Debut Wth Price Hike" [ref=e1205]:
+                - /url: /news/oneplus-nord-6-launch-leak-points-to-early-april-debut-wth-price-hike
+                - img "OnePlus Nord 6 Launch Leak Points To Early April Debut Wth Price Hike" [ref=e1206]
+              - link "OnePlus Nord 6 Launch Leak Points To Early April Debut Wth Price Hike" [ref=e1209]:
+                - /url: /news/oneplus-nord-6-launch-leak-points-to-early-april-debut-wth-price-hike
+                - generic [ref=e1210]: OnePlus Nord 6 Launch Leak Points To Early April Debut Wth Price Hike
+              - generic [ref=e1212]: OnePlus fans, get ready for some big news! A fresh OnePlus Nord 6 launch leak has just dropped, hinting that the much-awaited smartphone will hit the market in early April 2026. The smartphone will arrive as a rebranded version of the OnePlus Turbo 6 from China. On top of that, expect a noticeable price increase…
+            - generic [ref=e1213]: 15th Mar 2026
+          - generic [ref=e1215]:
+            - generic [ref=e1216]:
+              - link "OnePlus 15T Specs Leak Suggests Big Battery And Major Power Boost" [ref=e1218]:
+                - /url: /news/oneplus-15t-specs-leak-suggests-big-battery-and-major-power-boost
+                - img "OnePlus 15T Specs Leak Suggests Big Battery And Major Power Boost" [ref=e1219]
+              - link "OnePlus 15T Specs Leak Suggests Big Battery And Major Power Boost" [ref=e1222]:
+                - /url: /news/oneplus-15t-specs-leak-suggests-big-battery-and-major-power-boost
+                - generic [ref=e1223]: OnePlus 15T Specs Leak Suggests Big Battery And Major Power Boost
+              - generic [ref=e1225]: Early leaks about the OnePlus 15T‘s specs suggest a powerful new compact smartphone is coming soon. The device is expected to stand out with a large battery, strong performance, and upgrades over past models. Enthusiasts are already discussing what OnePlus may bring with this release, and latest reports show several key details emerging ahead of…
+            - generic [ref=e1226]: 14th Mar 2026
+          - generic [ref=e1228]:
+            - generic [ref=e1229]:
+              - 'link "Xiaomi 17T Price Leak: India Launch Nears With Dimensity 8500 Power, Massive Battery" [ref=e1231]':
+                - /url: /news/xiaomi-17t-price-leak-india-launch-nears-with-dimensity-8500-power-massive-battery
+                - 'img "Xiaomi 17T Price Leak: India Launch Nears With Dimensity 8500 Power, Massive Battery" [ref=e1232]'
+              - 'link "Xiaomi 17T Price Leak: India Launch Nears With Dimensity 8500 Power, Massive Battery" [ref=e1235]':
+                - /url: /news/xiaomi-17t-price-leak-india-launch-nears-with-dimensity-8500-power-massive-battery
+                - generic [ref=e1236]: "Xiaomi 17T Price Leak: India Launch Nears With Dimensity 8500 Power, Massive Battery"
+              - generic [ref=e1238]: Xiaomi keeps the buzz alive after unveiling the stunning Xiaomi 17 and Xiaomi 17 Ultra in India. Tech enthusiasts now have fresh reasons to get excited as leaks reveal details about the upcoming Xiaomi 17T. This mid-range powerhouse promises premium features at an affordable price, building on the success of its siblings. The latest price…
+            - generic [ref=e1239]: 14th Mar 2026
+          - generic [ref=e1241]:
+            - generic [ref=e1242]:
+              - link "Galaxy Z Flip 8 Battery Leak Suggests Similar Capacity As Previous Model" [ref=e1244]:
+                - /url: /news/galaxy-z-flip-8-battery-leak-suggests-similar-capacity-as-previous-model
+                - img "Galaxy Z Flip 8 Battery Leak Suggests Similar Capacity As Previous Model" [ref=e1245]
+              - link "Galaxy Z Flip 8 Battery Leak Suggests Similar Capacity As Previous Model" [ref=e1248]:
+                - /url: /news/galaxy-z-flip-8-battery-leak-suggests-similar-capacity-as-previous-model
+                - generic [ref=e1249]: Galaxy Z Flip 8 Battery Leak Suggests Similar Capacity As Previous Model
+              - generic [ref=e1251]: New reports about the Samsung Galaxy Z Flip 8 Battery indicate that Samsung may not increase the battery capacity in its next clamshell foldable smartphone. The upcoming device is expected to launch alongside the Samsung Galaxy Z Fold 8 at Samsung’s annual summer event, which usually takes place in July. According to recent leaks, the…
+            - generic [ref=e1252]: 14th Mar 2026
+          - generic [ref=e1254]:
+            - generic [ref=e1255]:
+              - 'link "POCO X8 Pro Specs Leak: Big Batteries, Powerful MediaTek Chips Expected" [ref=e1257]':
+                - /url: /news/poco-x8-pro-specs-leak-big-batteries-powerful-mediatek-chips-expected
+                - 'img "POCO X8 Pro Specs Leak: Big Batteries, Powerful MediaTek Chips Expected" [ref=e1258]'
+              - 'link "POCO X8 Pro Specs Leak: Big Batteries, Powerful MediaTek Chips Expected" [ref=e1261]':
+                - /url: /news/poco-x8-pro-specs-leak-big-batteries-powerful-mediatek-chips-expected
+                - generic [ref=e1262]: "POCO X8 Pro Specs Leak: Big Batteries, Powerful MediaTek Chips Expected"
+              - generic [ref=e1264]: The upcoming POCO X8 Pro series’ specs have started appearing online just days before the official launch. POCO has confirmed several key details about the POCO X8 Pro and the new POCO X8 Pro Max, including their battery capacities and charging speeds. Both smartphones are set to launch globally and in India on March…
+            - generic [ref=e1265]: 14th Mar 2026
+          - generic [ref=e1267]:
+            - generic [ref=e1268]:
+              - link "Honor X80 GT Leaks Suggest Massive 13,080mAh Battery, Snapdragon 8-series Chip" [ref=e1270]:
+                - /url: /news/honor-x80-gt-leaks-suggest-massive-13080mah-battery-snapdragon-8-series-chip
+                - img "Honor X80 GT Leaks Suggest Massive 13,080mAh Battery, Snapdragon 8-series Chip" [ref=e1271]
+              - link "Honor X80 GT Leaks Suggest Massive 13,080mAh Battery, Snapdragon 8-series Chip" [ref=e1274]:
+                - /url: /news/honor-x80-gt-leaks-suggest-massive-13080mah-battery-snapdragon-8-series-chip
+                - generic [ref=e1275]: Honor X80 GT Leaks Suggest Massive 13,080mAh Battery, Snapdragon 8-series Chip
+              - generic [ref=e1277]: Recent Honor X80 GT leaks indicate that the company could soon launch a smartphone with one of the largest batteries ever seen in a mainstream device. Reports from Chinese sources claim the upcoming phone may carry a huge 13,080mAh battery, which is far bigger than what most flagship phones currently offer. In the last few…
+            - generic [ref=e1278]: 14th Mar 2026
+      - generic [ref=e1281]:
+        - generic [ref=e1282]:
+          - generic [ref=e1283]: Download the App
+          - generic [ref=e1284]: Sell your old phone | Buy top-quality refurbished phones | Get your phone repaired
+          - generic [ref=e1285]:
+            - link "android" [ref=e1287]:
+              - /url: https://play.google.com/store/apps/details?id=com.reglobe.cashify&referrer=utm_source%3Dcashifyweb%26utm_medium%3Dwebsite
+              - img "android" [ref=e1289]
+            - link "ios" [ref=e1291]:
+              - /url: https://itunes.apple.com/in/app/cashify/id1133551195?mt=8
+              - img "ios" [ref=e1293]
+        - img "landing-download-banner" [ref=e1295]
+      - list [ref=e1300]:
+        - listitem [ref=e1301]:
+          - heading "Sell Your Old Phone & Buy Old Mobile Phones with Cashify" [level=2] [ref=e1302]
+          - generic [ref=e1303]:
+            - paragraph [ref=e1304]: Cashify is the best platform if you are looking to sell your old mobile phone. It offers a hassle-free experience, and you can sell your old mobile phone in less than five minutes.
+            - paragraph [ref=e1305]: When you sell an old mobile phone with Cashify, you can easily upgrade to a new one. Cashify ensures that the phones you sell are in top condition so that people get good quality when they buy them.
+            - heading "Sell Your Old Phone" [level=2] [ref=e1306]
+            - paragraph [ref=e1307]: "Ready to sell old mobile phone? With Cashify, you can easily get cash for your old mobile phone without leaving home. Just share your phone’s details, and we’ll offer you the best price. It’s that simple:"
+            - paragraph [ref=e1308]: "- Get an Instant Quote: Enter your phone’s details on our website or app."
+            - paragraph [ref=e1309]: "- Free Home Pickup: Book a convenient time, and we’ll pick up your phone from your doorstep."
+            - paragraph [ref=e1310]: "- Instant Cash Payment: Receive cash on the spot upon pickup."
+            - heading "Which Mobile Phone Brands Can Be Sold and Bought On Cashify?" [level=2] [ref=e1311]
+            - paragraph [ref=e1312]: "You can buy or sell almost all mobile phone brands in India. Popular laptops, tablets, and gaming consoles are also available on the go. Cashify has more than 20 phone brands, and for every device you sell. Apart from this, we offer:"
+            - paragraph [ref=e1313]: "- Assured sale at best price"
+            - paragraph [ref=e1314]: "- Hassle free"
+            - paragraph [ref=e1315]: "- Free home pick up"
+            - paragraph [ref=e1316]: "- Instant cash payment on pickup"
+            - heading "Buy Old Mobile Phones" [level=2] [ref=e1317]
+            - paragraph [ref=e1318]: "Cashify offers an affordable way to upgrade to a new phone. You can explore the vast selection of refurbished phones at low price. With Cashify, you can be assured that you will get a highly functional phone. All refurbished phones are tested with proper quality checks to maintain the quality. On top of that, you get:"
+            - paragraph [ref=e1319]: "- High-quality refurbished phones at affordable prices"
+            - paragraph [ref=e1320]: "- 32-point quality checks"
+            - paragraph [ref=e1321]: "- 6-month warranty on all refurbished phones"
+            - paragraph [ref=e1322]: "- 15 days replacement"
+            - paragraph [ref=e1323]: Upgrade your phone without stretching your budget. Discover our wide range of old mobile phones and get yours today at nearly half the price.
+            - heading "How to Buy Old Phone From Cashify" [level=2] [ref=e1324]
+            - paragraph [ref=e1325]: "Buying old mobile phone from Cashify is very easy and convenient. You just need to follow the steps below:"
+            - paragraph [ref=e1326]: "- You can visit the website or App"
+            - paragraph [ref=e1327]: "- Click on the Buy Phone section to select the brand you want to purchase."
+            - paragraph [ref=e1328]: "- Choose the model and the condition- Fair, Good, Superb. Based on your choice, the price will be displayed on the screen."
+            - paragraph [ref=e1329]: "- Enter your address and payment mode."
+            - paragraph [ref=e1330]: "- Make the payment and that’s it! Your device will be delivered to your doorstep."
+            - paragraph [ref=e1331]
+            - paragraph [ref=e1332]: With Cashify, your privacy is safe. We carefully clean every old phone to ensure that all your data is removed and secured.
+            - paragraph [ref=e1333]: You don’t need to worry about your old phone’s brand when selling or buying through Cashify. We accept phones from most brands, so selling is easy. Pick the phone category, brand, and model you want to sell. You can also choose your brand from the quick links below.
+    - generic [ref=e1336]:
+      - generic [ref=e1338]:
+        - generic [ref=e1339]:
+          - img [ref=e1340]
+          - generic [ref=e1352]:
+            - generic [ref=e1353]: Follow us on
+            - list [ref=e1354]:
+              - listitem [ref=e1355]:
+                - link "Twitter" [ref=e1356]:
+                  - /url: https://twitter.com/cashify_
+                  - img "Twitter" [ref=e1357]
+              - listitem [ref=e1358]:
+                - link "Facebook" [ref=e1359]:
+                  - /url: https://www.facebook.com/CashifyNow/
+                  - img "Facebook" [ref=e1360]
+              - listitem [ref=e1361]:
+                - link "Instagram" [ref=e1362]:
+                  - /url: https://www.instagram.com/cashify/
+                  - img "Instagram" [ref=e1363]
+              - listitem [ref=e1364]:
+                - link "Youtube" [ref=e1365]:
+                  - /url: https://www.youtube.com/channel/UCxEzwY-Pl3PYrXESIgdYGXQ
+                  - img "Youtube" [ref=e1366]
+        - generic [ref=e1367]:
+          - generic [ref=e1370]:
+            - generic [ref=e1371] [cursor=pointer]: Services
+            - generic [ref=e1373]:
+              - link "Sell Phone" [ref=e1376]:
+                - /url: /sell-old-mobile-phone
+                - generic [ref=e1377]: Sell Phone
+              - link "Sell Television" [ref=e1380]:
+                - /url: /sell-old-television
+                - generic [ref=e1381]: Sell Television
+              - link "Sell Smart Watch" [ref=e1384]:
+                - /url: /sell-old-smart-watch
+                - generic [ref=e1385]: Sell Smart Watch
+              - link "Sell Smart Speakers" [ref=e1388]:
+                - /url: /sell-old-smart-speaker
+                - generic [ref=e1389]: Sell Smart Speakers
+              - link "Sell DSLR Camera" [ref=e1392]:
+                - /url: /sell-old-dslr-camera
+                - generic [ref=e1393]: Sell DSLR Camera
+              - link "Sell Earbuds" [ref=e1396]:
+                - /url: /sell-old-earbuds
+                - generic [ref=e1397]: Sell Earbuds
+              - link "Repair Phone" [ref=e1400]:
+                - /url: /repair
+                - generic [ref=e1401]: Repair Phone
+              - link "Buy Gadgets" [ref=e1404]:
+                - /url: /buy-refurbished-gadgets
+                - generic [ref=e1405]: Buy Gadgets
+              - link "Recycle Phone" [ref=e1408]:
+                - /url: /recycle-old-mobile-phone
+                - generic [ref=e1409]: Recycle Phone
+              - link "Find New Phone" [ref=e1412]:
+                - /url: /find-new-phone
+                - generic [ref=e1413]: Find New Phone
+              - link "Partner With Us" [ref=e1416]:
+                - /url: /partner-with-us
+                - generic [ref=e1417]: Partner With Us
+          - generic [ref=e1420]:
+            - generic [ref=e1421] [cursor=pointer]: Company
+            - generic [ref=e1423]:
+              - link "About Us" [ref=e1426]:
+                - /url: /about-us
+                - generic [ref=e1427]: About Us
+              - link "Careers" [ref=e1430]:
+                - /url: /career
+                - generic [ref=e1431]: Careers
+              - link "Articles" [ref=e1434]:
+                - /url: /articles
+                - generic [ref=e1435]: Articles
+              - link "Press Releases" [ref=e1438]:
+                - /url: /press-releases
+                - generic [ref=e1439]: Press Releases
+              - link "Become Cashify Partner" [ref=e1442]:
+                - /url: /partner-with-us
+                - generic [ref=e1443]: Become Cashify Partner
+              - link "Become Supersale Partner" [ref=e1446]:
+                - /url: https://supersale.cashify.in/lp/home/index.html
+                - generic [ref=e1447]: Become Supersale Partner
+              - link "Corporate Information" [ref=e1450]:
+                - /url: https://www.cashify.in/lp/corporate-information
+                - generic [ref=e1451]: Corporate Information
+          - generic [ref=e1454]:
+            - generic [ref=e1455] [cursor=pointer]: Sell Device
+            - generic [ref=e1457]:
+              - link "Mobile Phone" [ref=e1460]:
+                - /url: /sell-old-mobile-phone
+                - generic [ref=e1461]: Mobile Phone
+              - link "Laptop" [ref=e1464]:
+                - /url: /sell-old-laptop
+                - generic [ref=e1465]: Laptop
+              - link "Tablet" [ref=e1468]:
+                - /url: /sell-old-tablet
+                - generic [ref=e1469]: Tablet
+              - link "iMac" [ref=e1472]:
+                - /url: /sell-old-imac
+                - generic [ref=e1473]: iMac
+              - link "Gaming Consoles" [ref=e1476]:
+                - /url: /sell-old-gaming-consoles
+                - generic [ref=e1477]: Gaming Consoles
+          - generic [ref=e1480]:
+            - generic [ref=e1481] [cursor=pointer]: Help & Support
+            - generic [ref=e1483]:
+              - link "FAQ" [ref=e1486]:
+                - /url: /faq/category/buyback
+                - generic [ref=e1487]: FAQ
+              - link "Contact Us" [ref=e1490]:
+                - /url: /contact
+                - generic [ref=e1491]: Contact Us
+              - link "Warranty Policy" [ref=e1494]:
+                - /url: /warranty-policy
+                - generic [ref=e1495]: Warranty Policy
+              - link "Refund Policy" [ref=e1498]:
+                - /url: /refund-policy
+                - generic [ref=e1499]: Refund Policy
+          - generic [ref=e1500]:
+            - generic [ref=e1502]:
+              - generic [ref=e1503] [cursor=pointer]: More Info
+              - generic [ref=e1505]:
+                - link "Terms & Conditions" [ref=e1508]:
+                  - /url: /terms-conditions
+                  - generic [ref=e1509]: Terms & Conditions
+                - link "Privacy Policy" [ref=e1512]:
+                  - /url: /privacy-policy
+                  - generic [ref=e1513]: Privacy Policy
+                - link "Terms of Use" [ref=e1516]:
+                  - /url: /terms-of-use
+                  - generic [ref=e1517]: Terms of Use
+                - link "E-Waste Policy" [ref=e1520]:
+                  - /url: /e-waste-policy
+                  - generic [ref=e1521]: E-Waste Policy
+                - link "Cookie Policy" [ref=e1524]:
+                  - /url: /cookie-policy
+                  - generic [ref=e1525]: Cookie Policy
+                - link "What is Refurbished" [ref=e1528]:
+                  - /url: /buy-refurbished-mobile-phones/what-is-refurbished-mobile-phones
+                  - generic [ref=e1529]: What is Refurbished
+                - link "Device Safety" [ref=e1532]:
+                  - /url: https://devicesafety.org/
+                  - generic [ref=e1533]: Device Safety
+            - generic [ref=e1535] [cursor=pointer]:
+              - img "chat-with-us-icon" [ref=e1537]
+              - generic [ref=e1538]:
+                - generic [ref=e1539]: Chat with Us
+                - generic [ref=e1540]: Got questions? Just ask.
+      - generic [ref=e1542]:
+        - generic [ref=e1543]:
+          - generic [ref=e1544]: "Registered Office:"
+          - generic [ref=e1545]: "Manak Waste Management Pvt Ltd.| 55, 2nd Floor, Lane-2, Westend Marg, Saidullajab, Near Saket Metro Station, New Delhi–110030, India, Support-7290068900 | CIN: U46524DL2009PTC190441"
+          - generic [ref=e1546]:
+            - text: "Manak Waste Management Pvt Ltd. is ISO 27001 & 27701 Compliance Certified.Person who may be contacted in case of any compliance related queries or grievances: Manoj Kumar"
+            - link "(grievanceofficer@cashify.in)" [ref=e1547]:
+              - /url: mailto:grievanceofficer@cashify.in
+            - text: Manak Waste Management Private Limited is R2v3 Certified. Current certification scope covers Downstream Vendor Management, Logical Data Sanitization, and Testing & Repair of Used Laptops only.
+          - generic [ref=e1548]: "Country of Origin : India ** All product , logos, and brands are property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement."
+        - img "customBannerFooter" [ref=e1550] [cursor=pointer]
+      - generic [ref=e1552]: Copyright @ 2026 Cashify All rights reserved
+```
